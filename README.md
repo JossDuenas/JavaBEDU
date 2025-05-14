@@ -1,2 +1,2 @@
-# JavaBEDU_
+# JavaBEDU
 Trabajos de Java en BEDU
